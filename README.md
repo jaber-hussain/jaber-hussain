@@ -16,7 +16,7 @@
 
 I'm a **Data Science & AI student** and full-stack developer who builds production-grade applications end-to-end - from backend APIs to mobile apps.
 
-- 🚀 Founder & developer of **[DoQadam](https://github.com/jaber-hussain/doqadam)** - a location-based home services marketplace in Pakistan
+- 🚀 Founder & developer of **[DoQadam](https://doqadam.com)** - a location-based home services marketplace in Pakistan
 - 🔭 Currently working on payments, real-time chat, and wallet systems
 - 🎓 Final Year student at **KFUEIT**, Rahim Yar Khan
 - 💼 Open to **freelance projects** - Django APIs, Flutter apps, and full-stack builds
