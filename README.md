@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Jaber Hussain 👋
+# Jaber Hussain
 
-**Django REST & Flutter Developer** · Building real-world products from Pakistan 🇵🇰
+**AI Backend Engineer · LLM Integration & RAG Systems · Building from Pakistan 🇵🇰**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaber-hussain/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/jaberhussain503)
@@ -14,79 +14,75 @@
 
 ## About Me
 
-I'm a **Data Science & AI student** and full-stack developer who builds production-grade applications end-to-end - from backend APIs to mobile apps.
+I build **production-ready AI systems** - RAG pipelines, LLM-powered APIs, and semantic search backends. Currently a final-year **BS Artificial Intelligence** student at KFUEIT while shipping real products.
 
-- 🚀 Founder & developer of **[DoQadam](https://doqadam.com)** - a location-based home services marketplace in Pakistan
-- 🔭 Currently working on payments, real-time chat, and wallet systems
-- 🎓 Final Year student at **KFUEIT**, Rahim Yar Khan
-- 💼 Open to **freelance projects** - Django APIs, Flutter apps, and full-stack builds
-- 📬 Reach me at **jaberchaudary@gmail.com**
+- 🤖 Specializing in **LLM integration, RAG pipelines, and vector search** (pgvector, FAISS, ChromaDB)
+- 🚀 Founder of **[DoQadam](https://doqadam.com)** - a service marketplace with real-time backend at scale
+- 🕌 Solo building **Tafaqquh (تفقه)** - an AI-powered Islamic knowledge app with citation-backed answers
+- 🎓 **BS AI @ KFUEIT**, Rahim Yar Khan · Graduating 2027
+- 💼 Open to **freelance** - FastAPI/Django APIs, LLM integrations, RAG systems
+- 📬 **jaberchaudary@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 **Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-![Django Channels](https://img.shields.io/badge/Django_Channels-092E20?style=flat-square&logo=django&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![Django Channels](https://img.shields.io/badge/WebSockets-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Mobile & Frontend**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**AI & Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Tools & Platforms**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏠 DoQadam - Home Services Marketplace
-> A full-scale marketplace connecting customers with local service providers across Pakistan.
+### 🤖 ScholarBot - Context-Aware Academic Chatbot *(FYP)*
+> An AI assistant that answers institutional queries grounded in uploaded academic documents.
 
-- **Real-time chat** with WebSockets, edit/delete, read receipts
-- **Wallet & payments** - JazzCash, Easypaisa, payout state machine, refund logic
-- **Push notifications** with FCM + Redis presence detection
-- **OTP auth**, dynamic service cities, provider onboarding
-- **Stack:** Django, DRF, Django Channels, Redis, Flutter, BLoC, PostgreSQL
-
----
-
-### 🛒 FastCart - Multi-Vendor Ecommerce
-> A multi-vendor ecommerce platform where multiple sellers can manage their own stores.
-
-- Multiple vendor dashboards with product and order management
-- Cart, checkout, and order tracking
-- **Stack:** Django, DRF, PostgreSQL
+- Built with **LLaMA 3 + LangChain** for document-grounded, citation-aware responses
+- Designed a **vector retrieval pipeline** using FAISS/ChromaDB for semantic search
+- Developed **FastAPI** backend for low-latency inference and scalable AI query handling
+- **Stack:** Python, FastAPI, LangChain, LLaMA 3, FAISS, ChromaDB, React
 
 ---
 
-### ✍️ Blog Platform
-> A clean blogging platform with post management and user authentication.
+### 🕌 Tafaqquh (تفقه) - AI-Powered Islamic Knowledge App
+> A solo-built app delivering citation-backed answers from classical Islamic sources.
 
-- CRUD posts, categories, comments
-- User auth with roles
-- **Stack:** Django, PostgreSQL
+- Built a **RAG pipeline** with embeddings + LLM APIs for grounded, verifiable answers
+- Designed **semantic search** using PostgreSQL + pgvector for multilingual Arabic/Urdu/English retrieval
+- Developed backend APIs for AI inference and large-scale Islamic text datasets
+- **Stack:** Django REST Framework, PostgreSQL + pgvector, Flutter, Cubit
+
+---
+
+### 🏠 DoQadam - Service Marketplace Backend System
+> A full-scale platform connecting customers with local service providers across Pakistan.
+
+- Designed **scalable backend** with Django REST Framework and high-concurrency APIs
+- Built **wallet system**, payout workflows, booking logic, and refund state machines
+- Implemented **real-time communication** with WebSockets + Redis presence tracking
+- **Stack:** Django, DRF, Django Channels, Redis, PostgreSQL, Flutter, BLoC
 
 ---
 
@@ -101,12 +97,21 @@ I'm a **Data Science & AI student** and full-stack developer who builds producti
 
 ---
 
+## 🎓 Education & Certifications
+
+- **BS Artificial Intelligence** - KFUEIT, Rahim Yar Khan · 2023–2027
+  - *Deep Learning & Applications, Image Processing, Cybersecurity, Data Structures*
+- **Crash Course on Python** - Google · Aug 2025
+- **Introduction to AI** - Google · Jul 2025
+
+---
+
 ## 💼 Available for Freelance
 
-I build **Django REST APIs** and **Flutter mobile apps** for startups and businesses. If you need a reliable developer who has shipped real products, let's talk.
+I build **FastAPI/Django backends** and **LLM-powered systems** - RAG pipelines, AI APIs, vector search, and full-stack apps. If you need someone who has shipped real AI products, let's talk.
 
 [![Hire me on Fiverr](https://img.shields.io/badge/Hire_me_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/jaberhussain503)
-[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaberchaudary@gmail.com)
+[![Send an Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaberchaudary@gmail.com)
 
 ---
 
